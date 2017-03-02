@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "284968287111",
+    "firebase_url": "https://ncistudentapp.firebaseio.com",
+    "project_id": "ncistudentapp",
+    "storage_bucket": "ncistudentapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284968287111:android:f335b92129906e85",
+        "android_client_info": {
+          "package_name": "com.kibabu.benit.ncistudentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284968287111-ro7cumc8pph35ov3nketpfmjsd0lv6dr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kibabu.benit.ncistudentapp",
+            "certificate_hash": "f1c7b68223cd34c6e555374b56645bf6cb7675b9"
+          }
+        },
+        {
+          "client_id": "284968287111-je788ptherdhl0l6i7dkmlm5no55ih9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_6AyJPpNUEqJ8C9hrbeXqnH0-BbMtms"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284968287111-je788ptherdhl0l6i7dkmlm5no55ih9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
